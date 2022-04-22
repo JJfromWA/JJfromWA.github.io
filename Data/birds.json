@@ -1,46 +1,44 @@
-{
-    "birds": [
-        {
-            "id": 1,
-            "name": "Bald eagle",
-            "color": "brown",
-            "sciName": "h. leucocephalus",
-            "description": "The Bald Eagle has been the national emblem of the United States since 1782 and a spiritual symbol for native people for far longer than that. These regal birds aren’t really bald, but their white-feathered heads gleam in contrast to their chocolate-brown body and wings. Look for them soaring in solitude, chasing other birds for their food, or gathering by the hundreds in winter. Once endangered by hunting and pesticides, Bald Eagles have flourished under protection.",
-            "images" : [
-                "https://www.allaboutbirds.org/guide/assets/photo/306062281-1280px.jpg"
-            ],
-            "infolinks": [
-                "https://en.wikipedia.org/wiki/Bald_eagle"
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Blue Jay",
-            "color": "blue",
-            "sciName": "C. cristata",
-            "description": "This common, large songbird is familiar to many people, with its perky crest; blue, white, and black plumage; and noisy calls. Blue Jays are known for their intelligence and complex social systems with tight family bonds. Their fondness for acorns is credited with helping spread oak trees after the last glacial period.",
-            "images" : [
-                "https://www.allaboutbirds.org/guide/assets/photo/311635911-1280px.jpg"
-            ],
-            "infolinks": [ 
-                "https://en.wikipedia.org/wiki/Blue_jay",
-                "https://www.allaboutbirds.org/guide/Blue_Jay/overview"
-            ]
-        },
-        {
-            "id": 3,
-            "name": "Northern Cardinal",
-            "color": "red",
-            "sciName": "Cardinalis cardinalis",
-            "description": "The male Northern Cardinal is perhaps responsible for getting more people to open up a field guide than any other bird. They’re a perfect combination of familiarity, conspicuousness, and style: a shade of red you can’t take your eyes off. Even the brown females sport a sharp crest and warm red accents. Cardinals don’t migrate and they don’t molt into a dull plumage, so they’re still breathtaking in winter’s snowy backyards. In summer, their sweet whistles are one of the first sounds of the morning.",
-            "images" : [
-                "https://www.allaboutbirds.org/guide/assets/photo/297087301-1280px.jpg"
-            ],
-            "infolinks": [ 
-                "https://en.wikipedia.org/wiki/Northern_cardinal",
-                "https://www.allaboutbirds.org/guide/Northern_Cardinal/overview"
-            ]
-        }
+[
+    {
+        "id": 1,
+        "name": "Bald eagle",
+        "color": "brown",
+        "sciName": "h. leucocephalus",
+        "description": "The Bald Eagle has been the national emblem of the United States since 1782 and a spiritual symbol for native people for far longer than that. These regal birds aren’t really bald, but their white-feathered heads gleam in contrast to their chocolate-brown body and wings. Look for them soaring in solitude, chasing other birds for their food, or gathering by the hundreds in winter. Once endangered by hunting and pesticides, Bald Eagles have flourished under protection.",
+        "images" : [
+            "https://www.allaboutbirds.org/guide/assets/photo/306062281-1280px.jpg"
+        ],
+        "infolinks": [
+            "https://en.wikipedia.org/wiki/Bald_eagle"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Blue Jay",
+        "color": "blue",
+        "sciName": "C. cristata",
+        "description": "This common, large songbird is familiar to many people, with its perky crest; blue, white, and black plumage; and noisy calls. Blue Jays are known for their intelligence and complex social systems with tight family bonds. Their fondness for acorns is credited with helping spread oak trees after the last glacial period.",
+        "images" : [
+            "https://www.allaboutbirds.org/guide/assets/photo/311635911-1280px.jpg"
+        ],
+        "infolinks": [ 
+            "https://en.wikipedia.org/wiki/Blue_jay",
+            "https://www.allaboutbirds.org/guide/Blue_Jay/overview"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Northern Cardinal",
+        "color": "red",
+        "sciName": "Cardinalis cardinalis",
+        "description": "The male Northern Cardinal is perhaps responsible for getting more people to open up a field guide than any other bird. They’re a perfect combination of familiarity, conspicuousness, and style: a shade of red you can’t take your eyes off. Even the brown females sport a sharp crest and warm red accents. Cardinals don’t migrate and they don’t molt into a dull plumage, so they’re still breathtaking in winter’s snowy backyards. In summer, their sweet whistles are one of the first sounds of the morning.",
+        "images" : [
+            "https://www.allaboutbirds.org/guide/assets/photo/297087301-1280px.jpg"
+        ],
+        "infolinks": [ 
+            "https://en.wikipedia.org/wiki/Northern_cardinal",
+            "https://www.allaboutbirds.org/guide/Northern_Cardinal/overview"
+        ]
+    }
+]
     
-    ]
-}
